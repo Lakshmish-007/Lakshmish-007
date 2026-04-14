@@ -2,7 +2,7 @@
 
 Final-year CS student | DevOps Engineer | Bengaluru, India
 
-I build real DevOps projects — CI/CD pipelines, containerized apps, and cloud deployments on AWS. Not just following tutorials, actually breaking things and figuring out why.
+I build real DevOps projects - CI/CD pipelines, containerized apps, and cloud deployments on AWS. Not just following tutorials, actually breaking things and figuring out why.
 
 ---
 
